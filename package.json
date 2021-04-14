@@ -1,9 +1,10 @@
 {
   "name": "@scott-dev/template-projects",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A package of various javascript template projects.",
   "type": "module",
   "scripts": {
+    "start": "node ./scripts/create-rollup-app.js",
     "create-rollup-app": "node ./scripts/create-rollup-app.js"
   },
   "keywords": [
