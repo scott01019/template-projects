@@ -4,9 +4,9 @@
   "description": "A package of various javascript template projects.",
   "type": "module",
   "scripts": {
-    "start": "node ./scripts/create-rollup-app.js",
     "create-rollup-app": "node ./scripts/create-rollup-app.js"
   },
+  "bin": "node ./scripts/create-rollup-app.js",
   "keywords": [
     "template-projects",
     "create-rollup-app"
