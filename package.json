@@ -1,0 +1,18 @@
+{
+  "name": "@scott-dev/template-projects",
+  "version": "1.0.0",
+  "description": "A package of various javascript template projects.",
+  "type": "module",
+  "scripts": {
+    "create-rollup-app": "node ./scripts/create-rollup-app.js"
+  },
+  "keywords": [
+    "template-projects"
+  ],
+  "author": "Scott Burnette scott@scott-dev.com",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "is-valid-path": "^0.1.1"
+  }
+}
