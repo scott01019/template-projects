@@ -11,6 +11,10 @@
     "create-rollup-app"
   ],
   "author": "Scott Burnette scott@scott-dev.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scott01019/template-projects.git"
+  },
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
